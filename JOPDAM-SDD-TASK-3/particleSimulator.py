@@ -7,9 +7,7 @@ import os
 import time
 import random
 from math import *
-from numpy import *
 from sklearn import preprocessing
-import numpy as np
 
 class mainParticleSimulation :
 	def __init__(self):
